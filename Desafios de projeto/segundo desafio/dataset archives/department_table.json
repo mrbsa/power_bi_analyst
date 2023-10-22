@@ -1,0 +1,23 @@
+[
+    {
+       "Dname":"Research",
+       "Dnumber":"5",
+       "Mgr_ssn":"333445555",
+       "Mgr_start_date":"1988-05-22",
+       "Dept_create_date":"1986-05-22"
+    },
+    {
+       "Dname":"Administration",
+       "Dnumber":"4",
+       "Mgr_ssn":"987654321",
+       "Mgr_start_date":"1995-01-01",
+       "Dept_create_date":"1994-01-01"
+    },
+    {
+       "Dname":"Headquarters",
+       "Dnumber":"1",
+       "Mgr_ssn":"888665555",
+       "Mgr_start_date":"1981-06-19",
+       "Dept_create_date":"1980-06-19"
+    }
+ ]
