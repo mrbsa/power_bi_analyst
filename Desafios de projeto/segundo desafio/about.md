@@ -1,4 +1,4 @@
-Nesse projeto, trabalhamos o processamento e transformação de dados com a ferramenta PowerBI. O dataset utilizado origina de uma Base de Dados SQL e foi integrado através da Azure, cujo script pode ser encontrado no Módulo 3 deste repositório, mas tambem incluí os arquivos JavaScript Object Notation gerados no PHPMyAdmin. Foram aplicadas as etapas (abaixo) indicadas no desafio com o PowerQuery e, por fim, foi criado um breve relatório no PowerBI.
+Nesse projeto, trabalhamos o processamento e transformação de dados com a ferramenta PowerBI. O dataset utilizado origina de uma Base de Dados SQL e foi integrado através da Azure, cujo script pode ser encontrado no Módulo 3 deste repositório, mas tambem incluí os arquivos JavaScript Object Notation gerados no phpMyAdmin. Foram aplicadas as etapas (abaixo) indicadas no desafio com o PowerQuery e, por fim, foi criado um breve relatório no PowerBI.
 
 1. Verifique os cabeçalhos e tipos de dados
 2. Modifique os valores monetários para o tipo double preciso
