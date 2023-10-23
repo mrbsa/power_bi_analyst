@@ -15,7 +15,7 @@ Nesse projeto, trabalhamos o processamento e transformação de dados com a ferr
 13. Mescle os nomes de departamentos e localização. Isso fará que cada combinação departamento-local seja único. Isso irá auxiliar na criação do modelo estrela em um módulo futuro.
 14. Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir.
 
-    Ambas as operações são utilizadas na combinação de dados de diferentes fontes ou tabelas. Elas diferem no sentido em que Mesclar (Merge) utiliza de uma chave de mesclagem, ou seja uma coluna em comum entre as tabelas, assim como funciona a operação `JOIN` e seus subtipos no SQL. Atribuir (Append) empilha as linhas de uma tabela em cima da outra, exigindo que as tabelas envolvidas possuam a mesma estrutura de colunas.
+    Ambas as operações são utilizadas na combinação de dados de diferentes fontes ou tabelas. Elas diferem no sentido em que Mesclar (Merge) utiliza de uma chave de mesclagem, ou seja uma coluna em comum entre as tabelas, assim como funciona a operação `JOIN` e seus subtipos no SQL. Atribuir (Append) empilha as linhas de uma tabela em cima da outra, exigindo que as tabelas envolvidas possuam a mesma estrutura de colunas, com as linhas extras adicionadas.
 
 16. Agrupe os dados a fim de saber quantos colaboradores existem por gerente
 17. Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela
